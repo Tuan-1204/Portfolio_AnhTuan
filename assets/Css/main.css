@@ -2,9 +2,9 @@
 
 @import './theme.css';
 
-body {
-  font-family: 'Chakra Petch', sans-serif;
-  background-color: var(--p-20);
-  color: var(--p-700);
-  line-height: 1.6;
-}
+/* nhúng các css riêng  */
+@import './sections/header.css';
+@import './sections/about-me.css';
+@import './sections/skills.css';
+@import './sections/project.css';
+@import './sections/footer.css';
