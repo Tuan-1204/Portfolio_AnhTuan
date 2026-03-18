@@ -1,0 +1,25 @@
+/* Responsive Design */
+
+/* Desktop */
+@media (max-width: 1536px) {
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+}
+
+/* Laptop */
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1028px;
+    margin: 0 auto;
+  }
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1023px) {
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+}
