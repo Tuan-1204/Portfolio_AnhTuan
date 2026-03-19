@@ -25,6 +25,10 @@
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1536px;
